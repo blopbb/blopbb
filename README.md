@@ -1,57 +1,70 @@
-# Hi, I'm Emily 👋
+# hi, i'm emily :D
 
-cs + co @ university of waterloo  
-associate software developer @ biorender
-im a software engineer building consumer products and systems that improve usability and decision-making, with interests in optimization, data, and performance-driven design
+computer science + combinatorics & optimization @ university of waterloo  
+associate software developer @ biorender  
 
----
-
-## what i do
-
-- build product systems in react + typescript for fast iteration and user feedback loops
-- design backend and infrastructure systems for real-time consumer products
-- build performance-critical systems in c++ when control and efficiency matter
-- work on ai-driven workflows, agents, and experimental product systems
+i build consumer products and systems that improve usability and decision-making, with a passion for math, data, and performance-driven engineering.
 
 ---
 
-## recent work
+## focus areas
 
-**BioRender**  
-building agentic systems to automate scientific figure creation  
-- reduced agent evaluation time from 20m → 5m  
-- improved iteration speed through internal tooling and workflow design  
-- simplified legacy architecture for faster development cycles  
+**product engineering**  
+building react and typescript systems for fast iteration, clear user feedback loops, and product-driven development.
 
-**GenTube**  
-consumer ai platform for real-time image generation and social creation  
-- shipped 200+ features across core product surfaces  
-- worked on feed, notifications, and user lifecycle systems  
-- improved engagement and retention through rapid iteration loops  
-- built analytics systems to understand user behavior and product changes  
+**backend systems**  
+designing scalable backend architectures for real-time consumer applications with emphasis on reliability and velocity.
 
-**code ninjas**  
-built internal automation tools + taught programming and game dev fundamentals  
-- reduced manual ops workload by 40% using python + gpt tooling  
+**systems & performance**  
+developing performance-critical components in c++ and python where efficiency and low-level control matter.
+
+**ai systems**  
+building agentic workflows and experimental features powered by large language models.
 
 ---
 
-## things i like building
+## technical skills
 
-- systems that close the loop between user behavior and product decisions  
-- clean ui + fast iteration cycles  
-- tools that make other builders faster  
-- anything involving feeds, creation, or weird interaction design
+**languages**  
+typescript, javascript, python, c++, sql, html/css
+
+**frameworks**  
+react, next.js, node.js, unity
+
+**infrastructure**  
+aws, docker, convex, git, ci/cd
 
 ---
 
-## tech
+## experience
 
-react · typescript · python · c++ · node · convex · unity · aws · docker · sql · next.js
+### biorender | associate software developer  
+building agentic systems for scientific figure generation.
+
+- reduced agent evaluation time by 75% (20 minutes -> 5 minutes)
+- built internal tooling to accelerate experimentation and developer workflows.
+- simplified legacy architecture by removing complexity and improving maintainability.
+
+---
+
+### gentube | software engineer  
+consumer ai platform for real-time creation and social interaction.
+
+- shipped 200+ features across core product surfaces including profile, feed, and notifications.
+- built feed, notifications, and user lifecycle systems supporting core engagement loops.
+- improved engagement and retention through rapid product iteration and experimentation.
+- developed analytics systems to understand user behavior and inform product decisions.
+
+---
+
+### code ninjas | developer and instructor
+
+- automated operational workflows using python and gpt-based tooling, reducing manual overhead by 40%.
+- taught programming fundamentals, game development, and introductory computer science concepts.
 
 ---
 
 ## contact
 
 email: e248liu@uwaterloo.ca  
-linkedin: https://www.linkedin.com/in/emily-liu-7a10042aa/
+linkedin: linkedin.com/in/emily-liu-7a10042aa/
