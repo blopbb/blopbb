@@ -1,7 +1,8 @@
 # Hi, I'm Emily 👋
 
 cs + co @ university of waterloo  
-i build products, systems, and sometimes things that probably didn’t need to be that complex
+associate software developer @ biorender
+im a software engineer building consumer products and systems that improve usability and decision-making, with interests in optimization, data, and performance-driven design
 
 ---
 
