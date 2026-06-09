@@ -1,4 +1,6 @@
-# hi, i'm emily :D
+# hi there :D
+
+i'm emily!
 
 computer science + combinatorics & optimization @ university of waterloo  
 associate software developer @ biorender  
