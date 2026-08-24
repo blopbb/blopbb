@@ -2,17 +2,14 @@
 
 i'm emily!
 
-computer science + combinatorics & optimization @ university of waterloo  
+computer science + combinatorics & optimization @ university of waterloo (double major)
 associate software developer @ biorender  
 
-i build consumer products and systems that improve usability and decision-making, with a passion for math, data, and performance-driven engineering.
+i build consumer products and systems that solve real problems, with a passion for math, data, and performance-driven engineering.
 
 ---
 
 ## focus areas
-
-**product engineering**  
-building react and typescript systems for fast iteration, clear user feedback loops, and product-driven development.
 
 **backend systems**  
 designing scalable backend architectures for real-time consumer applications with emphasis on reliability and velocity.
@@ -23,12 +20,15 @@ developing performance-critical components in c++ and python where efficiency an
 **ai systems**  
 building agentic workflows and experimental features powered by large language models.
 
+**product engineering**  
+building react and typescript systems for fast iteration, clear user feedback loops, and product-driven development.
+
 ---
 
 ## technical skills
 
 **languages**  
-typescript, javascript, python, c++, sql, html/css
+c++, typescript, javascript, python, sql, html/css
 
 **frameworks**  
 react, next.js, node.js, unity
@@ -69,4 +69,4 @@ consumer ai platform for real-time creation and social interaction.
 ## contact
 
 email: e248liu@uwaterloo.ca  
-linkedin: linkedin.com/in/emily-liu-7a10042aa/
+linkedin: [linkedin.com/in/emily-liu-7a10042aa/](https://www.linkedin.com/in/emily-liu-7a10042aa/)
